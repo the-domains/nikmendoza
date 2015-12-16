@@ -1,7 +1,7 @@
 name: Nikmendoza
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.9426523
+typography_spectrum: 0.74539
 collections:
   - index:
       path: /
@@ -28,13 +28,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.8221147200092673
-  lightness: 1
-  saturation: 1
-  rhythmicContrast: 1
+    - '#1e5f86'
+    - '#000000'
+    - '#005555'
+    - '#0000ff'
+    - '#000080'
+  brandStrength: 0.625
+  lightness: 0.6875
+  saturation: 0.75
+  rhythmicContrast: 0.5
 purpose: []
