@@ -1,0 +1,28 @@
+name: Nikmendoza
+favicon: null
+layout_spectrum: 0.37879117438569665
+typography_spectrum: 0.7795071885921061
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8221147200092673
+  lightness: 0.6888698160182685
+  saturation: 0.7320531811565161
+  rhythmicContrast: 0.7664009102154523
+purpose: []
