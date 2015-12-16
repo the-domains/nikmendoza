@@ -1,28 +1,40 @@
-name: Nikmendoza
 favicon: null
-layout_spectrum: 0.37879117438569665
-typography_spectrum: 0.7795071885921061
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Nikmendoza
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 1
+  brandStrength: 0.8221147200092673
+  lightness: 1
   brandColors:
     - '#ADD7F6'
     - '#87BFFF'
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.8221147200092673
-  lightness: 0.6888698160182685
-  saturation: 0.7320531811565161
-  rhythmicContrast: 0.7664009102154523
-purpose: []
+  rhythmicContrast: 1
+typography_spectrum: 0.9426523
+layout_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
