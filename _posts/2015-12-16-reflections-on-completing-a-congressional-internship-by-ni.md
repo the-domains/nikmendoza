@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-16T02:17:12.223Z'
-dateModified: '2015-12-16T02:16:55.603Z'
+datePublished: '2015-12-23T15:25:12.077Z'
+dateModified: '2015-12-16T03:05:41.106Z'
 title: "'Reflections on completing a Congressional Internship' by Nik Mendoza"
 author: []
+sourcePath: _posts/2015-12-16-reflections-on-completing-a-congressional-internship-by-ni.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-16-reflections-on-completing-a-congressional-internship-by-ni.md
-published: true
 url: reflections-on-completing-a-congressional-internship-by-ni/index.html
 _type: Article
 
