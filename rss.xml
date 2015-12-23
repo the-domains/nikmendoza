@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Nikmendoza]]></title>
         <description><![CDATA[Nikmendoza]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nikmendoza/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Dec 2015 02:17:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Dec 2015 15:25:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nikmendoza/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA['Reflections on completing a Congressional Internship' by Nik Mendoza]]></title>
             <description><![CDATA[<h1>'Reflections on completing a Congressional Internship' by Nik Mendoza</h1>]]></description>
-            <link>undefinedreflections-on-completing-a-congressional-internship-by-ni/index.html</link>
+            <link>https://thegrid.ai/nikmendoza/reflections-on-completing-a-congressional-internship-by-ni/index.html</link>
             <guid isPermaLink="false">43148fb4-4227-4f44-88fb-89e9add41261</guid>
-            <pubDate>Wed, 16 Dec 2015 02:17:12 GMT</pubDate>
+            <pubDate>Wed, 23 Dec 2015 15:25:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
