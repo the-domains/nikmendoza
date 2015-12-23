@@ -1,7 +1,8 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -12,29 +13,28 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
-  saturation: 0.5328836
+  saturation: 0.1450253
   brandStrength: 1
-  lightness: 0.5084317
+  lightness: 0.6922429
   brandColors:
     - '#FFFFFF'
     - '#1E5F85'
     - '#000000'
     - '#D9D9D9'
     - '#444444'
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.8094435
 typography_spectrum: 0.4418212
-cta:
-  bucket: null
-  version: null
-  domain: null
 layout_spectrum: 0.5387858
-favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 name: Nikmendoza
