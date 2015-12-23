@@ -1,12 +1,12 @@
 ---
 description: ''
 author: []
-datePublished: '2015-12-23T15:37:32.243Z'
+datePublished: '2015-12-23T15:37:32.284Z'
 publisher:
   domain: ''
   name: ''
 title: Impromptu Photography
-dateModified: '2015-12-23T15:33:27.274Z'
+dateModified: '2015-12-23T15:35:18.459Z'
 sourcePath: _posts/2015-12-23-impromptu-photography.md
 published: true
 inFeed: true
@@ -18,6 +18,4 @@ _type: Article
 
 ---
 # Impromptu Photography
-![Tanzania's Embassy is called "Tanzania House" I like that concept &num;DC &num;Views &num;Fabulous &num;photography](https://scontent.cdninstagram.com/hphotos-xtp1/t51.2885-15/s640x640/sh0.08/e35/12353406_1719029201649713_370882985_n.jpg)
-
-Nik Mendoza on Instagram: "Tanzania's Embassy is called "Tanzania House" I like that concept \#DC \#Views \#Fabulous \#photography"
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c17b53ad-83f4-48b3-b941-adde50187afb.png)
