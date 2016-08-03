@@ -1,8 +1,4 @@
-favicon: null
-cta:
-  bucket: null
-  version: null
-  domain: null
+name: Nikmendoza
 opengraph:
   image: null
   type: null
@@ -13,16 +9,16 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 1
-  brandStrength: 1
+  brandStrength: 0.469534
   lightness: 1
   brandColors:
     - '#FFFFFF'
@@ -30,11 +26,15 @@ color:
     - '#000000'
     - '#D9D9D9'
     - '#444444'
-  rhythmicContrast: 0.8064516
-typography_spectrum: 0.4418212
-layout_spectrum: 0.5387858
+  rhythmicContrast: 1
+typography_spectrum: 0.9336917
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0
+favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
-name: Nikmendoza
